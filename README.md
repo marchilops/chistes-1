@@ -1,3 +1,3 @@
 # Chistes
 
-Archivo ejemplo para chistes colaborativos
+Clona el repo, añade un chiste y envía un pull request.
